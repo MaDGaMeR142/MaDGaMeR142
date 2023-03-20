@@ -5,4 +5,5 @@ I'm a Flutter developer who's passionate about creating beautiful and performant
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gopalshibu142&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gopalshibu142&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gopalshibu142&count_private=true&theme=tokyonight&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gopalshibu142&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
